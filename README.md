@@ -3,4 +3,4 @@
 
 (2) code:Project_code.R
 
-(3) 書面報告:BERT.pdf
+(3) 書面報告:BERT.pptx
