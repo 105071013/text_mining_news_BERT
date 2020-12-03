@@ -3,4 +3,6 @@
 
 (2) main code : sentiment_process.py
 
-(3) 書面報告 : BERT.pptx
+(3) 書面報告 : BERT.pdf
+
+(4) 簡報 : BERT.pptx 
